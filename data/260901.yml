@@ -1,0 +1,61 @@
+about:
+  description: A terminal UI for managing GitHub Gists
+  license: MIT
+  homepage: https://akunzai.github.io/gistui/
+  head: 77b3420
+  archived: false
+  latestVersion: v0.19.0
+  collectedAt: 2026-09-01T05:28:40Z
+timeline:
+  created: 2026-06-08
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-29
+popularity:
+  star: 12
+  watcher: 1
+  fork: 0
+  release: 24
+  contributor: 2
+  pullRequest: 4
+  issue: 161
+language:
+  Rust: 1264385
+  Python: 18274
+  HTML: 15959
+  Shell: 8254
+  PowerShell: 7023
+  TypeScript: 6406
+totalLine: 1320301
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 3
+    mergedPR: 60
+    openPR: 0
+    closedIssue: 46
+    openIssue: 0
+    commit: 78
+  last90d:
+    since: 2026-06-03
+    release: 24
+    mergedPR: 264
+    openPR: 0
+    closedIssue: 161
+    openIssue: 0
+    commit: 476
+  last180d:
+    since: 2026-03-05
+    release: 24
+    mergedPR: 264
+    openPR: 0
+    closedIssue: 161
+    openIssue: 0
+    commit: 476
+  last360d:
+    since: 2025-09-06
+    release: 24
+    mergedPR: 264
+    openPR: 0
+    closedIssue: 161
+    openIssue: 0
+    commit: 476
