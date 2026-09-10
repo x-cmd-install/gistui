@@ -1,52 +1,52 @@
 # gistui
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 A terminal UI for managing GitHub Gists
 
-![gistui](https://repo.x-cmd.io/gistui.svg)
+![gistui](https://repo.x-cmd.io/gistui.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install gistui
 ```
 
-## Code insight
+## 代码规模
 
-Total: **31,818** lines of code across **73** files in the top 5 languages.
+合计: **31,818** 行代码（覆盖前 5 种语言、共 **73** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Rust | 30,527 | 765 | 2,849 | 64 |
 | Python | 474 | 20 | 53 | 2 |
 | Sh | 197 | 23 | 34 | 3 |
 | Html | 170 | 1 | 6 | 1 |
 | TypeScript | 144 | 37 | 26 | 3 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/akunzai/gistui>
-- **Homepage**: <https://akunzai.github.io/gistui/>
-- **License**: MIT
+- **上游仓库**: <https://github.com/akunzai/gistui>
+- **官网**: <https://akunzai.github.io/gistui/>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `v0.20.0` (2026-09-01)
-- **Last commit**: 2026-09-09
-- **Assets in release**: 10
+- **最新版本**: `v0.20.0` (2026-09-01)
+- **最近提交**: 2026-09-09
+- **Release 含资产**: 10 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 12 · **Forks**: 0 · **Open issues**: 164 · **Contributors**: 2
+- **Star**: 12 · **Fork**: 0 · **开放 issue**: 164 · **贡献者**: 2
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 25 · **Merged PRs**: 275 · **Open PRs**: 0 · **Closed issues**: 164 · **Open issues**: 0 · **Commits**: 748
+- **发布数**: 25 · **已合并 PR**: 275 · **开放 PR**: 0 · **已关闭 issue**: 164 · **开放 issue**: 0 · **提交数**: 748
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 3 | 62 | 0 | 48 | 0 | 88 |
 | last60d | 2026-07-12 | 4 | 128 | 0 | 80 | 0 | 168 |
@@ -55,10 +55,10 @@ Total: **31,818** lines of code across **73** files in the top 5 languages.
 | 360d | 2025-09-15 | 25 | 275 | 0 | 164 | 0 | 489 |
 | last720d | 2024-09-20 | 25 | 275 | 0 | 164 | 0 | 748 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [gistui-v0.20.0-aarch64-apple-darwin.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.20.0/gistui-v0.20.0-aarch64-apple-darwin.tar.gz) | 3.1 MiB | `native/darwin/arm64` |
 | [gistui-v0.20.0-aarch64-apple-darwin.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.20.0/gistui-v0.20.0-aarch64-apple-darwin.tar.gz.sha256) | 109 B | `native/darwin/arm64` |
 | [gistui-v0.20.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.20.0/gistui-v0.20.0-aarch64-unknown-linux-gnu.tar.gz) | 3.4 MiB | `native/linux/arm64/glibc` |
@@ -70,13 +70,13 @@ Total: **31,818** lines of code across **73** files in the top 5 languages.
 | [gistui-v0.20.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.20.0/gistui-v0.20.0-x86_64-unknown-linux-gnu.tar.gz) | 3.4 MiB | `native/linux/x64/glibc` |
 | [gistui-v0.20.0-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.20.0/gistui-v0.20.0-x86_64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/x64/glibc` |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for gistui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gistui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+gistui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `gistui` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/gistui.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/gistui.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:12:12Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:12:12Z._
