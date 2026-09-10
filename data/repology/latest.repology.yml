@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: gistui
+  binname: gistui
+  visiblename: gistui
+  version: 0.20.0
+  origversion: 0.20.0-1
+  status: unique
+  summary: A terminal UI for managing GitHub Gists
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: gistui-bin
+  binname: gistui-bin
+  visiblename: gistui-bin
+  version: 0.20.0
+  origversion: 0.20.0-1
+  status: unique
+  summary: A terminal UI for managing GitHub Gists
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
