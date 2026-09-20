@@ -4,7 +4,7 @@
 
 A terminal UI for managing GitHub Gists
 
-![gistui](https://repo.x-cmd.io/gistui.svg)
+[![x-cmd/install — gistui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gistui.svg)](https://x-cmd.com/install/gistui)
 
 ## Install
 
@@ -33,7 +33,7 @@ Total: **31,818** lines of code across **73** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.20.0` (2026-09-01)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-19
 - **Assets in release**: 10
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **31,818** lines of code across **73** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 283 · **Open PRs**: 0 · **Closed issues**: 164 · **Open issues**: 0 · **Commits**: 766
+- **Releases**: 25 · **Merged PRs**: 284 · **Open PRs**: 0 · **Closed issues**: 164 · **Open issues**: 0 · **Commits**: 768
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 53 | 0 | 31 | 0 | 55 |
-| last60d | 2026-07-20 | 4 | 131 | 0 | 80 | 0 | 173 |
-| 90d | 2026-06-20 | 13 | 195 | 0 | 107 | 0 | 256 |
-| last180d | 2026-03-22 | 25 | 283 | 0 | 164 | 0 | 499 |
-| 360d | 2025-09-23 | 25 | 283 | 0 | 164 | 0 | 499 |
-| last720d | 2024-09-28 | 25 | 283 | 0 | 164 | 0 | 766 |
+| 30d | 2026-08-21 | 3 | 39 | 0 | 17 | 0 | 43 |
+| last60d | 2026-07-22 | 4 | 132 | 0 | 80 | 0 | 126 |
+| 90d | 2026-06-22 | 12 | 167 | 0 | 93 | 0 | 248 |
+| last180d | 2026-03-24 | 25 | 284 | 0 | 164 | 0 | 500 |
+| 360d | 2025-09-25 | 25 | 284 | 0 | 164 | 0 | 500 |
+| last720d | 2024-09-30 | 25 | 284 | 0 | 164 | 0 | 768 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for gistui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:09:41Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:11:46Z._
