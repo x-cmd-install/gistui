@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3172820,
       "digest": "sha256:8495cbd5a528fecb645109f60a25d4e1845cc79e98d15f64508d5084c62d81f5",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-22T13:23:15Z",
       "updated_at": "2026-09-22T13:23:16Z",
       "browser_download_url": "https://github.com/akunzai/gistui/releases/download/v0.21.0/gistui-v0.21.0-x86_64-pc-windows-msvc.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:4c1f394640aabbed65d3b13883c75669bbc2399336fe18dc3542d0bf26cf1da5",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-22T13:23:15Z",
       "updated_at": "2026-09-22T13:23:15Z",
       "browser_download_url": "https://github.com/akunzai/gistui/releases/download/v0.21.0/gistui-v0.21.0-x86_64-pc-windows-msvc.zip.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3613430,
       "digest": "sha256:3374139aa358431a8a2cddd23f939731b1b0cab1158384db7074f8d3f6bd4e7f",
-      "download_count": 6,
+      "download_count": 10,
       "created_at": "2026-09-22T13:23:15Z",
       "updated_at": "2026-09-22T13:23:16Z",
       "browser_download_url": "https://github.com/akunzai/gistui/releases/download/v0.21.0/gistui-v0.21.0-x86_64-unknown-linux-gnu.tar.gz"
