@@ -1,0 +1,145 @@
+about:
+  description: "A terminal UI for managing GitHub Gists"
+  license: MIT
+  homepage: https://akunzai.github.io/gistui/
+  head: 48fcc8d
+  archived: false
+  latestVersion: "v0.22.0"
+  latestRelease: "v0.22.0"
+  latestPrerelease: ""
+  collectedAt: 2026-09-25T06:00:37Z
+timeline:
+  created: 2026-06-08
+  lastCommit: 2026-09-25
+  lastVersion: 2026-09-25
+  lastRelease: 2026-09-25
+  lastPrerelease: 
+popularity:
+  star: 13
+  watcher: 1
+  fork: 0
+  release: 27
+  contributor: 2
+  pullRequest: 311
+  issue: 176
+language:
+  Rust: 1404391
+  HTML: 19236
+  Python: 18539
+  Shell: 8254
+  PowerShell: 7023
+  TypeScript: 6406
+totalBytes: 1463849
+recent:
+  last30d:
+    since: 2026-08-26
+    release: 4
+    mergedPR: 53
+    openPR: 0
+    closedIssue: 22
+    openIssue: 0
+    commit: 66
+  last60d:
+    since: 2026-07-27
+    release: 6
+    mergedPR: 125
+    openPR: 0
+    closedIssue: 77
+    openIssue: 0
+    commit: 149
+  last90d:
+    since: 2026-06-27
+    release: 11
+    mergedPR: 189
+    openPR: 0
+    closedIssue: 105
+    openIssue: 0
+    commit: 271
+  last180d:
+    since: 2026-03-29
+    release: 27
+    mergedPR: 307
+    openPR: 0
+    closedIssue: 176
+    openIssue: 0
+    commit: 523
+  last360d:
+    since: 2025-09-30
+    release: 27
+    mergedPR: 307
+    openPR: 0
+    closedIssue: 176
+    openIssue: 0
+    commit: 523
+  last720d:
+    since: 2024-10-05
+    release: 27
+    mergedPR: 307
+    openPR: 0
+    closedIssue: 176
+    openIssue: 0
+    commit: 818
+total:
+  release: 27
+  mergedPR: 307
+  openPR: 0
+  closedIssue: 176
+  openIssue: 0
+  commit: 818
+---
+path: /home/runner/.x-repo/github.com/akunzai/gistui
+collectedAt: 2026-09-25T06:00:39Z
+loc:
+  Rust:
+    code: 32393
+    comments: 769
+    blanks: 2969
+    files: 67
+  Python:
+    code: 478
+    comments: 21
+    blanks: 53
+    files: 2
+  Html:
+    code: 221
+    comments: 1
+    blanks: 6
+    files: 1
+  Sh:
+    code: 197
+    comments: 23
+    blanks: 34
+    files: 3
+  TypeScript:
+    code: 144
+    comments: 37
+    blanks: 26
+    files: 3
+  PowerShell:
+    code: 117
+    comments: 36
+    blanks: 12
+    files: 1
+  Toml:
+    code: 97
+    comments: 60
+    blanks: 21
+    files: 3
+  Json:
+    code: 95
+    comments: 0
+    blanks: 0
+    files: 5
+  Markdown:
+    code: 0
+    comments: 1274
+    blanks: 398
+    files: 19
+total:
+  code: 33976
+  comments: 4548
+  blanks: 3633
+  files: 104
+---
+
+---
