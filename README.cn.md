@@ -14,15 +14,15 @@ x install gistui
 
 ## 代码洞察
 
-合计: **33,875** 行代码（覆盖前 5 种语言、共 **76** 个文件）。
+合计: **34,196** 行代码（覆盖前 5 种语言、共 **78** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 32,508 | 769 | 2,979 | 67 |
+| Rust | 32,828 | 768 | 3,065 | 69 |
 | Python | 478 | 21 | 53 | 2 |
 | Html | 221 | 1 | 6 | 1 |
 | Sh | 206 | 23 | 33 | 3 |
-| TypeScript | 144 | 37 | 26 | 3 |
+| TypeScript | 145 | 42 | 26 | 3 |
 
 ## 源代码
 
@@ -32,43 +32,43 @@ x install gistui
 
 ## 发布
 
-- **最新版本**: `v0.22.0` (2026-09-25)
-- **最近提交**: 2026-09-26
+- **最新版本**: `v0.24.0` (2026-09-27)
+- **最近提交**: 2026-09-27
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 13 · **Fork**: 0 · **开放 issue**: 176 · **贡献者**: 2
+- **Star**: 14 · **Fork**: 0 · **开放 issue**: 193 · **贡献者**: 2
 
 ## 累计统计
 
-- **发布数**: 27 · **已合并 PR**: 311 · **开放 PR**: 0 · **已关闭 issue**: 176 · **开放 issue**: 0 · **提交数**: 830
+- **发布数**: 30 · **已合并 PR**: 337 · **开放 PR**: 0 · **已关闭 issue**: 193 · **开放 issue**: 0 · **提交数**: 882
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 4 | 57 | 0 | 22 | 0 | 74 |
-| last60d | 2026-07-28 | 6 | 123 | 0 | 71 | 0 | 157 |
-| 90d | 2026-06-28 | 11 | 193 | 0 | 105 | 0 | 279 |
-| last180d | 2026-03-30 | 27 | 311 | 0 | 176 | 0 | 531 |
-| 360d | 2025-10-01 | 27 | 311 | 0 | 176 | 0 | 531 |
-| last720d | 2024-10-06 | 27 | 311 | 0 | 176 | 0 | 830 |
+| 30d | 2026-08-28 | 7 | 82 | 0 | 39 | 0 | 77 |
+| last60d | 2026-07-29 | 9 | 145 | 0 | 84 | 0 | 159 |
+| 90d | 2026-06-29 | 14 | 217 | 0 | 122 | 0 | 282 |
+| last180d | 2026-03-31 | 30 | 337 | 0 | 193 | 0 | 557 |
+| 360d | 2025-10-02 | 30 | 337 | 0 | 193 | 0 | 557 |
+| last720d | 2024-10-07 | 30 | 337 | 0 | 193 | 0 | 882 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gistui-v0.22.0-aarch64-apple-darwin.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.22.0/gistui-v0.22.0-aarch64-apple-darwin.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
-| [gistui-v0.22.0-aarch64-apple-darwin.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.22.0/gistui-v0.22.0-aarch64-apple-darwin.tar.gz.sha256) | 109 B | `native/darwin/arm64` |
-| [gistui-v0.22.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.22.0/gistui-v0.22.0-aarch64-unknown-linux-gnu.tar.gz) | 3.5 MiB | `native/linux/arm64/glibc` |
-| [gistui-v0.22.0-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.22.0/gistui-v0.22.0-aarch64-unknown-linux-gnu.tar.gz.sha256) | 114 B | `native/linux/arm64/glibc` |
-| [gistui-v0.22.0-x86_64-apple-darwin.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.22.0/gistui-v0.22.0-x86_64-apple-darwin.tar.gz) | 3.4 MiB | `native/darwin/x64` |
-| [gistui-v0.22.0-x86_64-apple-darwin.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.22.0/gistui-v0.22.0-x86_64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/x64` |
-| [gistui-v0.22.0-x86_64-pc-windows-msvc.zip](https://github.com/akunzai/gistui/releases/download/v0.22.0/gistui-v0.22.0-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
-| [gistui-v0.22.0-x86_64-pc-windows-msvc.zip.sha256](https://github.com/akunzai/gistui/releases/download/v0.22.0/gistui-v0.22.0-x86_64-pc-windows-msvc.zip.sha256) | 108 B | `native/win/x64` |
-| [gistui-v0.22.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.22.0/gistui-v0.22.0-x86_64-unknown-linux-gnu.tar.gz) | 3.6 MiB | `native/linux/x64/glibc` |
-| [gistui-v0.22.0-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.22.0/gistui-v0.22.0-x86_64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/x64/glibc` |
+| [gistui-v0.24.0-aarch64-apple-darwin.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-aarch64-apple-darwin.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
+| [gistui-v0.24.0-aarch64-apple-darwin.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-aarch64-apple-darwin.tar.gz.sha256) | 109 B | `native/darwin/arm64` |
+| [gistui-v0.24.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-aarch64-unknown-linux-gnu.tar.gz) | 3.5 MiB | `native/linux/arm64/glibc` |
+| [gistui-v0.24.0-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-aarch64-unknown-linux-gnu.tar.gz.sha256) | 114 B | `native/linux/arm64/glibc` |
+| [gistui-v0.24.0-x86_64-apple-darwin.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-x86_64-apple-darwin.tar.gz) | 3.3 MiB | `native/darwin/x64` |
+| [gistui-v0.24.0-x86_64-apple-darwin.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-x86_64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/x64` |
+| [gistui-v0.24.0-x86_64-pc-windows-msvc.zip](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
+| [gistui-v0.24.0-x86_64-pc-windows-msvc.zip.sha256](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-x86_64-pc-windows-msvc.zip.sha256) | 108 B | `native/win/x64` |
+| [gistui-v0.24.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-x86_64-unknown-linux-gnu.tar.gz) | 3.6 MiB | `native/linux/x64/glibc` |
+| [gistui-v0.24.0-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-x86_64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/x64/glibc` |
 
 ## 改进这些数据
 
@@ -79,4 +79,4 @@ gistui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260926.yml` · 2026-09-26T05:56:30Z._
+_数据快照: `data/card/260927.yml` · 2026-09-27T06:19:27Z._
