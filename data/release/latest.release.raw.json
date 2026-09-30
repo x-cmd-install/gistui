@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3308721,
       "digest": "sha256:cf565ce3bab5ed3c3481a663f0bcc14b63cc5c9d3f3652ce80f19253702b10a2",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-27T02:46:08Z",
       "updated_at": "2026-09-27T02:46:09Z",
       "browser_download_url": "https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-aarch64-apple-darwin.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3724157,
       "digest": "sha256:648fe858c813a27350a8b8a9f548147d9cc25b5150ba6642e571c6bc188f5604",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-27T02:46:08Z",
       "updated_at": "2026-09-27T02:46:09Z",
       "browser_download_url": "https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-x86_64-unknown-linux-gnu.tar.gz"
