@@ -14,11 +14,11 @@ x install gistui
 
 ## Code insight
 
-Total: **34,196** lines of code across **78** files in the top 5 languages.
+Total: **34,229** lines of code across **79** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 32,828 | 768 | 3,065 | 69 |
+| Rust | 32,861 | 771 | 3,072 | 70 |
 | Python | 478 | 21 | 53 | 2 |
 | Html | 221 | 1 | 6 | 1 |
 | Sh | 206 | 23 | 33 | 3 |
@@ -33,7 +33,7 @@ Total: **34,196** lines of code across **78** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.24.0` (2026-09-27)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-10-01
 - **Assets in release**: 10
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **34,196** lines of code across **78** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 338 · **Open PRs**: 0 · **Closed issues**: 193 · **Open issues**: 0 · **Commits**: 885
+- **Releases**: 30 · **Merged PRs**: 344 · **Open PRs**: 0 · **Closed issues**: 193 · **Open issues**: 0 · **Commits**: 897
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 6 | 70 | 0 | 29 | 0 | 79 |
-| last60d | 2026-08-02 | 9 | 134 | 0 | 78 | 0 | 161 |
-| 90d | 2026-07-03 | 13 | 212 | 0 | 119 | 0 | 284 |
-| last180d | 2026-04-04 | 30 | 338 | 0 | 193 | 0 | 559 |
-| 360d | 2025-10-06 | 30 | 338 | 0 | 193 | 0 | 559 |
-| last720d | 2024-10-11 | 30 | 338 | 0 | 193 | 0 | 885 |
+| 30d | 2026-09-02 | 5 | 76 | 0 | 29 | 0 | 85 |
+| last60d | 2026-08-03 | 9 | 137 | 0 | 78 | 0 | 167 |
+| 90d | 2026-07-04 | 13 | 218 | 0 | 119 | 0 | 290 |
+| last180d | 2026-04-05 | 30 | 344 | 0 | 193 | 0 | 565 |
+| 360d | 2025-10-07 | 30 | 344 | 0 | 193 | 0 | 565 |
+| last720d | 2024-10-12 | 30 | 344 | 0 | 193 | 0 | 897 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for gistui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:58:46Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:37:46Z._
