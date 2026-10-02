@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3724157,
       "digest": "sha256:648fe858c813a27350a8b8a9f548147d9cc25b5150ba6642e571c6bc188f5604",
-      "download_count": 15,
+      "download_count": 20,
       "created_at": "2026-09-27T02:46:08Z",
       "updated_at": "2026-09-27T02:46:09Z",
       "browser_download_url": "https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-x86_64-unknown-linux-gnu.tar.gz"
