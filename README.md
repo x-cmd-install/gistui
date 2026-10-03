@@ -14,15 +14,15 @@ x install gistui
 
 ## Code insight
 
-Total: **34,229** lines of code across **79** files in the top 5 languages.
+Total: **36,449** lines of code across **86** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 32,861 | 771 | 3,072 | 70 |
-| Python | 478 | 21 | 53 | 2 |
+| Rust | 34,948 | 778 | 3,210 | 75 |
+| Python | 530 | 22 | 54 | 3 |
+| TypeScript | 226 | 44 | 28 | 4 |
 | Html | 221 | 1 | 6 | 1 |
 | Sh | 206 | 23 | 33 | 3 |
-| TypeScript | 145 | 42 | 26 | 3 |
 
 ## Source
 
@@ -32,43 +32,43 @@ Total: **34,229** lines of code across **79** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.24.0` (2026-09-27)
-- **Last commit**: 2026-10-01
+- **Latest**: `v0.25.0` (2026-10-03)
+- **Last commit**: 2026-10-03
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 14 · **Forks**: 0 · **Open issues**: 193 · **Contributors**: 2
+- **Stars**: 14 · **Forks**: 0 · **Open issues**: 195 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 344 · **Open PRs**: 0 · **Closed issues**: 193 · **Open issues**: 0 · **Commits**: 897
+- **Releases**: 32 · **Merged PRs**: 354 · **Open PRs**: 0 · **Closed issues**: 195 · **Open issues**: 0 · **Commits**: 921
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 5 | 76 | 0 | 29 | 0 | 85 |
-| last60d | 2026-08-03 | 9 | 137 | 0 | 78 | 0 | 167 |
-| 90d | 2026-07-04 | 13 | 218 | 0 | 119 | 0 | 290 |
-| last180d | 2026-04-05 | 30 | 344 | 0 | 193 | 0 | 565 |
-| 360d | 2025-10-07 | 30 | 344 | 0 | 193 | 0 | 565 |
-| last720d | 2024-10-12 | 30 | 344 | 0 | 193 | 0 | 897 |
+| 30d | 2026-09-03 | 7 | 86 | 0 | 31 | 0 | 99 |
+| last60d | 2026-08-04 | 11 | 144 | 0 | 79 | 0 | 181 |
+| 90d | 2026-07-05 | 15 | 228 | 0 | 121 | 0 | 304 |
+| last180d | 2026-04-06 | 32 | 354 | 0 | 195 | 0 | 579 |
+| 360d | 2025-10-08 | 32 | 354 | 0 | 195 | 0 | 579 |
+| last720d | 2024-10-13 | 32 | 354 | 0 | 195 | 0 | 921 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gistui-v0.24.0-aarch64-apple-darwin.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-aarch64-apple-darwin.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
-| [gistui-v0.24.0-aarch64-apple-darwin.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-aarch64-apple-darwin.tar.gz.sha256) | 109 B | `native/darwin/arm64` |
-| [gistui-v0.24.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-aarch64-unknown-linux-gnu.tar.gz) | 3.5 MiB | `native/linux/arm64/glibc` |
-| [gistui-v0.24.0-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-aarch64-unknown-linux-gnu.tar.gz.sha256) | 114 B | `native/linux/arm64/glibc` |
-| [gistui-v0.24.0-x86_64-apple-darwin.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-x86_64-apple-darwin.tar.gz) | 3.3 MiB | `native/darwin/x64` |
-| [gistui-v0.24.0-x86_64-apple-darwin.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-x86_64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/x64` |
-| [gistui-v0.24.0-x86_64-pc-windows-msvc.zip](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
-| [gistui-v0.24.0-x86_64-pc-windows-msvc.zip.sha256](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-x86_64-pc-windows-msvc.zip.sha256) | 108 B | `native/win/x64` |
-| [gistui-v0.24.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-x86_64-unknown-linux-gnu.tar.gz) | 3.6 MiB | `native/linux/x64/glibc` |
-| [gistui-v0.24.0-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.24.0/gistui-v0.24.0-x86_64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/x64/glibc` |
+| [gistui-v0.25.0-aarch64-apple-darwin.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.25.0/gistui-v0.25.0-aarch64-apple-darwin.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
+| [gistui-v0.25.0-aarch64-apple-darwin.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.25.0/gistui-v0.25.0-aarch64-apple-darwin.tar.gz.sha256) | 109 B | `native/darwin/arm64` |
+| [gistui-v0.25.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.25.0/gistui-v0.25.0-aarch64-unknown-linux-gnu.tar.gz) | 3.6 MiB | `native/linux/arm64/glibc` |
+| [gistui-v0.25.0-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.25.0/gistui-v0.25.0-aarch64-unknown-linux-gnu.tar.gz.sha256) | 114 B | `native/linux/arm64/glibc` |
+| [gistui-v0.25.0-x86_64-apple-darwin.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.25.0/gistui-v0.25.0-x86_64-apple-darwin.tar.gz) | 3.4 MiB | `native/darwin/x64` |
+| [gistui-v0.25.0-x86_64-apple-darwin.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.25.0/gistui-v0.25.0-x86_64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/x64` |
+| [gistui-v0.25.0-x86_64-pc-windows-msvc.zip](https://github.com/akunzai/gistui/releases/download/v0.25.0/gistui-v0.25.0-x86_64-pc-windows-msvc.zip) | 3.2 MiB | `native/win/x64` |
+| [gistui-v0.25.0-x86_64-pc-windows-msvc.zip.sha256](https://github.com/akunzai/gistui/releases/download/v0.25.0/gistui-v0.25.0-x86_64-pc-windows-msvc.zip.sha256) | 108 B | `native/win/x64` |
+| [gistui-v0.25.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/akunzai/gistui/releases/download/v0.25.0/gistui-v0.25.0-x86_64-unknown-linux-gnu.tar.gz) | 3.6 MiB | `native/linux/x64/glibc` |
+| [gistui-v0.25.0-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/akunzai/gistui/releases/download/v0.25.0/gistui-v0.25.0-x86_64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/x64/glibc` |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for gistui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:37:46Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:25:07Z._
