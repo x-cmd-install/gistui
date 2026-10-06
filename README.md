@@ -33,7 +33,7 @@ Total: **36,449** lines of code across **86** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.25.0` (2026-10-03)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-05
 - **Assets in release**: 10
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **36,449** lines of code across **86** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 355 · **Open PRs**: 0 · **Closed issues**: 195 · **Open issues**: 0 · **Commits**: 923
+- **Releases**: 32 · **Merged PRs**: 356 · **Open PRs**: 0 · **Closed issues**: 195 · **Open issues**: 0 · **Commits**: 925
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 7 | 86 | 0 | 31 | 0 | 91 |
-| last60d | 2026-08-06 | 10 | 145 | 0 | 79 | 0 | 179 |
-| 90d | 2026-07-07 | 15 | 227 | 0 | 120 | 0 | 259 |
-| last180d | 2026-04-08 | 32 | 355 | 0 | 195 | 0 | 580 |
-| 360d | 2025-10-10 | 32 | 355 | 0 | 195 | 0 | 580 |
-| last720d | 2024-10-15 | 32 | 355 | 0 | 195 | 0 | 923 |
+| 30d | 2026-09-06 | 7 | 87 | 0 | 31 | 0 | 92 |
+| last60d | 2026-08-07 | 10 | 146 | 0 | 79 | 0 | 180 |
+| 90d | 2026-07-08 | 14 | 217 | 0 | 119 | 0 | 260 |
+| last180d | 2026-04-09 | 32 | 356 | 0 | 195 | 0 | 581 |
+| 360d | 2025-10-11 | 32 | 356 | 0 | 195 | 0 | 581 |
+| last720d | 2024-10-16 | 32 | 356 | 0 | 195 | 0 | 925 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for gistui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:40:00Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:35:28Z._
