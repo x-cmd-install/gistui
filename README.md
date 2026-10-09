@@ -14,11 +14,11 @@ x install gistui
 
 ## Code insight
 
-Total: **36,449** lines of code across **86** files in the top 5 languages.
+Total: **36,660** lines of code across **86** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 34,948 | 778 | 3,210 | 75 |
+| Rust | 35,159 | 777 | 3,224 | 75 |
 | Python | 530 | 22 | 54 | 3 |
 | TypeScript | 226 | 44 | 28 | 4 |
 | Html | 221 | 1 | 6 | 1 |
@@ -33,7 +33,7 @@ Total: **36,449** lines of code across **86** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.25.0` (2026-10-03)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-09
 - **Assets in release**: 10
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **36,449** lines of code across **86** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 356 · **Open PRs**: 0 · **Closed issues**: 195 · **Open issues**: 0 · **Commits**: 925
+- **Releases**: 32 · **Merged PRs**: 358 · **Open PRs**: 0 · **Closed issues**: 195 · **Open issues**: 0 · **Commits**: 929
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 7 | 85 | 0 | 31 | 0 | 92 |
-| last60d | 2026-08-09 | 10 | 146 | 0 | 79 | 0 | 180 |
-| 90d | 2026-07-10 | 11 | 209 | 0 | 111 | 0 | 260 |
-| last180d | 2026-04-11 | 32 | 356 | 0 | 195 | 0 | 581 |
-| 360d | 2025-10-13 | 32 | 356 | 0 | 195 | 0 | 581 |
-| last720d | 2024-10-18 | 32 | 356 | 0 | 195 | 0 | 925 |
+| 30d | 2026-09-09 | 7 | 83 | 0 | 31 | 0 | 94 |
+| last60d | 2026-08-10 | 10 | 146 | 0 | 79 | 0 | 182 |
+| 90d | 2026-07-11 | 11 | 211 | 0 | 111 | 0 | 262 |
+| last180d | 2026-04-12 | 32 | 358 | 0 | 195 | 0 | 583 |
+| 360d | 2025-10-14 | 32 | 358 | 0 | 195 | 0 | 583 |
+| last720d | 2024-10-19 | 32 | 358 | 0 | 195 | 0 | 929 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for gistui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:07:24Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:14:56Z._
