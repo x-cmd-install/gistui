@@ -48,12 +48,12 @@ Total: **36,660** lines of code across **86** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 6 | 59 | 0 | 19 | 0 | 26 |
-| last60d | 2026-08-26 | 9 | 112 | 0 | 41 | 0 | 112 |
-| 90d | 2026-07-27 | 11 | 184 | 0 | 96 | 0 | 200 |
-| last180d | 2026-04-28 | 32 | 366 | 0 | 195 | 0 | 591 |
-| 360d | 2025-10-30 | 32 | 366 | 0 | 195 | 0 | 591 |
-| last720d | 2024-11-04 | 32 | 366 | 0 | 195 | 0 | 945 |
+| 30d | 2026-09-26 | 5 | 38 | 0 | 6 | 0 | 26 |
+| last60d | 2026-08-27 | 9 | 112 | 0 | 41 | 0 | 112 |
+| 90d | 2026-07-28 | 11 | 178 | 0 | 90 | 0 | 200 |
+| last180d | 2026-04-29 | 32 | 366 | 0 | 195 | 0 | 591 |
+| 360d | 2025-10-31 | 32 | 366 | 0 | 195 | 0 | 591 |
+| last720d | 2024-11-05 | 32 | 366 | 0 | 195 | 0 | 945 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for gistui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:36:00Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:51:26Z._
