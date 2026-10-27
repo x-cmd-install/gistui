@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-A terminal UI for managing GitHub Gists
+A terminal UI for managing Gists
 
 [![x-cmd/install — gistui Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gistui.svg?lang=zh)](https://x-cmd.com/install/gistui)
 
@@ -33,7 +33,7 @@ x install gistui
 ## 发布
 
 - **最新版本**: `v0.25.0` (2026-10-03)
-- **最近提交**: 2026-10-19
+- **最近提交**: 2026-10-26
 - **Release 含资产**: 10 个
 
 ## 流行度
@@ -42,18 +42,18 @@ x install gistui
 
 ## 累计统计
 
-- **发布数**: 32 · **已合并 PR**: 366 · **开放 PR**: 0 · **已关闭 issue**: 195 · **开放 issue**: 0 · **提交数**: 945
+- **发布数**: 32 · **已合并 PR**: 369 · **开放 PR**: 0 · **已关闭 issue**: 195 · **开放 issue**: 0 · **提交数**: 951
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 5 | 38 | 0 | 6 | 0 | 26 |
-| last60d | 2026-08-27 | 9 | 112 | 0 | 41 | 0 | 112 |
-| 90d | 2026-07-28 | 11 | 178 | 0 | 90 | 0 | 200 |
-| last180d | 2026-04-29 | 32 | 366 | 0 | 195 | 0 | 591 |
-| 360d | 2025-10-31 | 32 | 366 | 0 | 195 | 0 | 591 |
-| last720d | 2024-11-05 | 32 | 366 | 0 | 195 | 0 | 945 |
+| 30d | 2026-09-27 | 3 | 32 | 0 | 2 | 0 | 29 |
+| last60d | 2026-08-28 | 9 | 114 | 0 | 41 | 0 | 115 |
+| 90d | 2026-07-29 | 11 | 177 | 0 | 86 | 0 | 203 |
+| last180d | 2026-04-30 | 32 | 369 | 0 | 195 | 0 | 594 |
+| 360d | 2025-11-01 | 32 | 369 | 0 | 195 | 0 | 594 |
+| last720d | 2024-11-06 | 32 | 369 | 0 | 195 | 0 | 951 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ gistui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T05:51:26Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T06:18:23Z._
